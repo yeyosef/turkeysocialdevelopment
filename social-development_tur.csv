@@ -1,0 +1,868 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Turkey,TUR,2017,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.996779978275299
+Turkey,TUR,2016,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.995109975337982
+Turkey,TUR,2015,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.993600010871887
+Turkey,TUR,2014,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.992020010948181
+Turkey,TUR,2013,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.990499973297119
+Turkey,TUR,2012,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.988170027732849
+Turkey,TUR,2011,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.984809994697571
+Turkey,TUR,2010,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.979669988155365
+Turkey,TUR,2009,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.975269973278046
+Turkey,TUR,2007,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.956430017948151
+Turkey,TUR,2006,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.956830024719238
+Turkey,TUR,2005,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.95525997877121
+Turkey,TUR,2004,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.951749980449677
+Turkey,TUR,1990,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.915239989757538
+Turkey,TUR,1985,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.898379981517792
+Turkey,TUR,1980,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.803640007972717
+Turkey,TUR,1975,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.752070009708405
+Turkey,TUR,2018,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.988709986209869
+Turkey,TUR,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.989870011806488
+Turkey,TUR,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993809998035431
+Turkey,TUR,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993149995803833
+Turkey,TUR,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995429992675781
+Turkey,TUR,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993340015411377
+Turkey,TUR,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.98566997051239
+Turkey,TUR,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.990540027618408
+Turkey,TUR,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.986129999160767
+Turkey,TUR,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.981299996376038
+Turkey,TUR,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.973450005054474
+Turkey,TUR,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.967989981174469
+Turkey,TUR,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.95958000421524
+Turkey,TUR,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.950139999389648
+Turkey,TUR,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.944769978523254
+Turkey,TUR,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.935090005397797
+Turkey,TUR,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.929390013217926
+Turkey,TUR,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.920939981937408
+Turkey,TUR,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.910889983177185
+Turkey,TUR,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.910109996795654
+Turkey,TUR,1997,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.916000008583069
+Turkey,TUR,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.923629999160767
+Turkey,TUR,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.922129988670349
+Turkey,TUR,1993,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.91347998380661
+Turkey,TUR,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.909529983997345
+Turkey,TUR,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.908290028572083
+Turkey,TUR,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.908320009708405
+Turkey,TUR,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.906759977340698
+Turkey,TUR,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.907079994678497
+Turkey,TUR,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.903949975967407
+Turkey,TUR,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.903949975967407
+Turkey,TUR,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.895730018615723
+Turkey,TUR,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.881429970264435
+Turkey,TUR,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.857299983501434
+Turkey,TUR,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.837249994277954
+Turkey,TUR,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.830479979515076
+Turkey,TUR,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.827149987220764
+Turkey,TUR,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.818849980831146
+Turkey,TUR,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.811649978160858
+Turkey,TUR,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.802820026874542
+Turkey,TUR,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.787349998950958
+Turkey,TUR,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.77021998167038
+Turkey,TUR,1972,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.749939978122711
+Turkey,TUR,1971,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.728129982948303
+Turkey,TUR,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.979900002479553
+Turkey,TUR,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.964049994945526
+Turkey,TUR,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.981840014457703
+Turkey,TUR,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.980279982089996
+Turkey,TUR,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.980539977550507
+Turkey,TUR,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.976890027523041
+Turkey,TUR,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.964730024337769
+Turkey,TUR,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.94989001750946
+Turkey,TUR,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.947820007801056
+Turkey,TUR,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.944050014019012
+Turkey,TUR,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.926840007305145
+Turkey,TUR,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.907270014286041
+Turkey,TUR,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.897780001163483
+Turkey,TUR,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.889800012111664
+Turkey,TUR,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.853450000286102
+Turkey,TUR,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.822210013866425
+Turkey,TUR,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.819890022277832
+Turkey,TUR,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.818979978561401
+Turkey,TUR,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.818560004234314
+Turkey,TUR,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.797439992427826
+Turkey,TUR,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.804830014705658
+Turkey,TUR,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.796209990978241
+Turkey,TUR,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.802479982376099
+Turkey,TUR,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.791509985923767
+Turkey,TUR,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.789849996566772
+Turkey,TUR,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.785009980201721
+Turkey,TUR,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.782260000705719
+Turkey,TUR,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.77649998664856
+Turkey,TUR,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.777090013027191
+Turkey,TUR,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.77403998374939
+Turkey,TUR,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.775020003318787
+Turkey,TUR,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.771640002727509
+Turkey,TUR,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.749650001525879
+Turkey,TUR,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.716350018978119
+Turkey,TUR,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.706789970397949
+Turkey,TUR,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.705839991569519
+Turkey,TUR,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.703939974308014
+Turkey,TUR,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.685620009899139
+Turkey,TUR,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.667770028114319
+Turkey,TUR,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.649739980697632
+Turkey,TUR,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.637419998645782
+Turkey,TUR,2018,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.975910007953644
+Turkey,TUR,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.952920019626617
+Turkey,TUR,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.976059973239899
+Turkey,TUR,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.973969995975494
+Turkey,TUR,2014,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.973060011863709
+Turkey,TUR,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.968400001525879
+Turkey,TUR,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.948099970817566
+Turkey,TUR,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.917890012264252
+Turkey,TUR,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.915840029716492
+Turkey,TUR,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.911480009555817
+Turkey,TUR,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.882539987564087
+Turkey,TUR,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.851040005683899
+Turkey,TUR,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.839659988880157
+Turkey,TUR,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.830959975719452
+Turkey,TUR,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.770489990711212
+Turkey,TUR,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.725989997386932
+Turkey,TUR,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.722469985485077
+Turkey,TUR,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.724300026893616
+Turkey,TUR,2000,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.723209977149963
+Turkey,TUR,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.680490016937256
+Turkey,TUR,1997,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.676050007343292
+Turkey,TUR,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.648599982261658
+Turkey,TUR,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.654619991779327
+Turkey,TUR,1993,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.632089972496033
+Turkey,TUR,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.618730008602142
+Turkey,TUR,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.603100001811981
+Turkey,TUR,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.589579999446869
+Turkey,TUR,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.575630009174347
+Turkey,TUR,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.561630010604858
+Turkey,TUR,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.551090002059937
+Turkey,TUR,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.543609976768494
+Turkey,TUR,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.542800009250641
+Turkey,TUR,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.536750018596649
+Turkey,TUR,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.525269985198975
+Turkey,TUR,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.482450008392334
+Turkey,TUR,1979,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.475470006465912
+Turkey,TUR,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.457749992609024
+Turkey,TUR,1977,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.455819994211197
+Turkey,TUR,1976,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.452089995145798
+Turkey,TUR,1974,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.426620006561279
+Turkey,TUR,1973,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.40718001127243
+Turkey,TUR,1972,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.390819996595383
+Turkey,TUR,1971,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.384739995002747
+Turkey,TUR,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.898270010948181
+Turkey,TUR,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.879809975624084
+Turkey,TUR,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.872049987316132
+Turkey,TUR,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.873369991779327
+Turkey,TUR,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.867370009422302
+Turkey,TUR,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.85794997215271
+Turkey,TUR,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.851490020751953
+Turkey,TUR,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.84060001373291
+Turkey,TUR,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.813570022583008
+Turkey,TUR,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.786289989948273
+Turkey,TUR,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.770799994468689
+Turkey,TUR,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.754190027713776
+Turkey,TUR,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.746519982814789
+Turkey,TUR,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.730849981307983
+Turkey,TUR,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.715719997882843
+Turkey,TUR,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.740360021591187
+Turkey,TUR,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.713370025157928
+Turkey,TUR,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.695940017700195
+Turkey,TUR,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.66074001789093
+Turkey,TUR,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.656239986419678
+Turkey,TUR,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.542890012264252
+Turkey,TUR,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.617680013179779
+Turkey,TUR,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.592530012130737
+Turkey,TUR,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.526019990444183
+Turkey,TUR,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.513670027256012
+Turkey,TUR,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.503939986228943
+Turkey,TUR,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.502900004386902
+Turkey,TUR,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.504559993743896
+Turkey,TUR,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.498600006103516
+Turkey,TUR,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.500339984893799
+Turkey,TUR,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.475510001182556
+Turkey,TUR,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.455559998750687
+Turkey,TUR,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.502600014209747
+Turkey,TUR,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.425830006599426
+Turkey,TUR,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.343769997358322
+Turkey,TUR,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.30171000957489
+Turkey,TUR,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.288560003042221
+Turkey,TUR,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.255510002374649
+Turkey,TUR,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.214969992637634
+Turkey,TUR,1976,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.180969998240471
+Turkey,TUR,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.199540004134178
+Turkey,TUR,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.236650004982948
+Turkey,TUR,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.225850000977516
+Turkey,TUR,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.227129995822906
+Turkey,TUR,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.22597000002861
+Turkey,TUR,2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17.3174872665535
+Turkey,TUR,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17.4496644295302
+Turkey,TUR,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17.4496644295302
+Turkey,TUR,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.5719489981785
+Turkey,TUR,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.9090909090909
+Turkey,TUR,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.9090909090909
+Turkey,TUR,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.4160583941606
+Turkey,TUR,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.4160583941606
+Turkey,TUR,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.1818181818182
+Turkey,TUR,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.1818181818182
+Turkey,TUR,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.10746812386157
+Turkey,TUR,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.10746812386157
+Turkey,TUR,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.10746812386157
+Turkey,TUR,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.10746812386157
+Turkey,TUR,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.36363636363636
+Turkey,TUR,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.36363636363636
+Turkey,TUR,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.36363636363636
+Turkey,TUR,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.36363636363636
+Turkey,TUR,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.18181818181818
+Turkey,TUR,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.18181818181818
+Turkey,TUR,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,4.18181818181818
+Turkey,TUR,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2.36363636363636
+Turkey,TUR,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2.36363636363636
+Turkey,TUR,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,31.8299999237061
+Turkey,TUR,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,33.2399997711182
+Turkey,TUR,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,35.0399990081787
+Turkey,TUR,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,34.9400005340576
+Turkey,TUR,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,36.7299995422363
+Turkey,TUR,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,38.2400007247924
+Turkey,TUR,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,41.8899993896485
+Turkey,TUR,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,44.0999994277955
+Turkey,TUR,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,46.8199987411499
+Turkey,TUR,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,47.7100009918213
+Turkey,TUR,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,47.3400001525879
+Turkey,TUR,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,45.2400016784668
+Turkey,TUR,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,45.9000015258789
+Turkey,TUR,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,47.6700019836426
+Turkey,TUR,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,49.8699989318847
+Turkey,TUR,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,52.1599988937378
+Turkey,TUR,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,53.0400009155273
+Turkey,TUR,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,54.1099996566772
+Turkey,TUR,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,56.0799980163574
+Turkey,TUR,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,56.3300018310547
+Turkey,TUR,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,56.850001335144
+Turkey,TUR,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,57.479998588562
+Turkey,TUR,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,58.710000038147
+Turkey,TUR,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,59.1100006103516
+Turkey,TUR,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,60.1099996566772
+Turkey,TUR,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,60.9099998474121
+Turkey,TUR,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,62.7299995422363
+Turkey,TUR,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,61.2199983596802
+Turkey,TUR,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,61.2000007629395
+Turkey,TUR,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.829999923706
+Turkey,TUR,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.8800005912781
+Turkey,TUR,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,25.0300002098084
+Turkey,TUR,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.6900005340577
+Turkey,TUR,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,24.7400007247924
+Turkey,TUR,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,25.5600008964539
+Turkey,TUR,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.6299996376037
+Turkey,TUR,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,26.8999991416931
+Turkey,TUR,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,27.4099993705749
+Turkey,TUR,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,28.1000003814697
+Turkey,TUR,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,29.2000002861022
+Turkey,TUR,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,28.6499991416931
+Turkey,TUR,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,29.4800004959106
+Turkey,TUR,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,31.0599994659424
+Turkey,TUR,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,32.3600001335144
+Turkey,TUR,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,33.7700009346008
+Turkey,TUR,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,34.8400001525879
+Turkey,TUR,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,35.3300004005432
+Turkey,TUR,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,35.8800001144409
+Turkey,TUR,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,34.9700002670288
+Turkey,TUR,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,35.489999294281
+Turkey,TUR,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,35.170000076294
+Turkey,TUR,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,35.5499992370606
+Turkey,TUR,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,36.0999994277954
+Turkey,TUR,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,36.6299991607666
+Turkey,TUR,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.0299997329712
+Turkey,TUR,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.0900001525879
+Turkey,TUR,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.0099992752076
+Turkey,TUR,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,37.1300001144409
+Turkey,TUR,2006,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,1.8
+Turkey,TUR,1999,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,3.8463579373
+Turkey,TUR,2006,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,3.3
+Turkey,TUR,1999,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,5.2047754395
+Turkey,TUR,2006,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,51.5
+Turkey,TUR,1999,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,30.4762779022
+Turkey,TUR,2006,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,66.5
+Turkey,TUR,1999,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,35.1128297596
+Turkey,TUR,2006,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,61.2
+Turkey,TUR,1999,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,33.1949583707
+Turkey,TUR,2006,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,48.5
+Turkey,TUR,1999,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,69.5237173291
+Turkey,TUR,2006,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,33.5
+Turkey,TUR,1999,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,64.8871702404
+Turkey,TUR,2006,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,38.8
+Turkey,TUR,1999,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,66.8050396567
+Turkey,TUR,2006,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,2.6
+Turkey,TUR,1999,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,4.5413489551
+Turkey,TUR,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,32.6300010681152
+Turkey,TUR,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.3299999237061
+Turkey,TUR,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.1800003051758
+Turkey,TUR,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,30.5699996948242
+Turkey,TUR,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.7999992370605
+Turkey,TUR,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.8099994659424
+Turkey,TUR,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.0900001525879
+Turkey,TUR,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,25.5100002288818
+Turkey,TUR,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.4400005340576
+Turkey,TUR,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,25.7399997711182
+Turkey,TUR,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,25.1000003814697
+Turkey,TUR,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.4400005340576
+Turkey,TUR,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.5
+Turkey,TUR,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.3899993896484
+Turkey,TUR,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.4099998474121
+Turkey,TUR,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.8600006103516
+Turkey,TUR,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.5200004577637
+Turkey,TUR,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.7099990844727
+Turkey,TUR,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.2000007629395
+Turkey,TUR,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.8700008392334
+Turkey,TUR,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,33.060001373291
+Turkey,TUR,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.6000003814697
+Turkey,TUR,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,32.0999984741211
+Turkey,TUR,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.0400009155273
+Turkey,TUR,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.1399993896484
+Turkey,TUR,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,35.7400016784668
+Turkey,TUR,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.25
+Turkey,TUR,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,37.6399993896484
+Turkey,TUR,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,40.310001373291
+Turkey,TUR,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,39.4599990844727
+Turkey,TUR,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,56.7999992370605
+Turkey,TUR,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,57.0999984741211
+Turkey,TUR,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,56.1800003051758
+Turkey,TUR,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,55.2700004577637
+Turkey,TUR,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,55.189998626709
+Turkey,TUR,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,55.25
+Turkey,TUR,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.6599998474121
+Turkey,TUR,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.3400001525879
+Turkey,TUR,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.1800003051758
+Turkey,TUR,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.3199996948242
+Turkey,TUR,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.9199981689453
+Turkey,TUR,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.060001373291
+Turkey,TUR,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.4000015258789
+Turkey,TUR,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.9799995422363
+Turkey,TUR,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.9700012207031
+Turkey,TUR,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.3300018310547
+Turkey,TUR,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,51.75
+Turkey,TUR,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,54.2900009155273
+Turkey,TUR,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,57.1300010681152
+Turkey,TUR,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.3400001525879
+Turkey,TUR,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,61.7700004577637
+Turkey,TUR,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,61.8699989318848
+Turkey,TUR,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,63.5900001525879
+Turkey,TUR,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,64.8300018310547
+Turkey,TUR,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,64.9899978637695
+Turkey,TUR,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.7600021362305
+Turkey,TUR,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,67.4199981689453
+Turkey,TUR,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.4800033569336
+Turkey,TUR,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,72.379997253418
+Turkey,TUR,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,74.0299987792969
+Turkey,TUR,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.9599990844727
+Turkey,TUR,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.4599990844727
+Turkey,TUR,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.9000015258789
+Turkey,TUR,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.1199989318848
+Turkey,TUR,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,42.689998626709
+Turkey,TUR,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.7200012207031
+Turkey,TUR,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.0400009155273
+Turkey,TUR,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.5800018310547
+Turkey,TUR,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.9599990844727
+Turkey,TUR,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.1699981689453
+Turkey,TUR,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.1500015258789
+Turkey,TUR,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.8800010681152
+Turkey,TUR,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.0699996948242
+Turkey,TUR,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,37.7999992370605
+Turkey,TUR,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.2999992370605
+Turkey,TUR,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.189998626709
+Turkey,TUR,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.2099990844727
+Turkey,TUR,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.5699996948242
+Turkey,TUR,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,42.7299995422363
+Turkey,TUR,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.1599998474121
+Turkey,TUR,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.4500007629395
+Turkey,TUR,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,46.7599983215332
+Turkey,TUR,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.8499984741211
+Turkey,TUR,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.4199981689453
+Turkey,TUR,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.5400009155273
+Turkey,TUR,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,52.2200012207031
+Turkey,TUR,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,49.2799987792969
+Turkey,TUR,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,54.0099983215332
+Turkey,TUR,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,56.2900009155273
+Turkey,TUR,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,56.689998626709
+Turkey,TUR,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.5400009155273
+Turkey,TUR,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,38.1500015258789
+Turkey,TUR,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,37.4500007629395
+Turkey,TUR,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,36.1500015258789
+Turkey,TUR,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,34.8600006103516
+Turkey,TUR,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,33.4500007629395
+Turkey,TUR,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,33.1300010681152
+Turkey,TUR,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.6800003051758
+Turkey,TUR,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31
+Turkey,TUR,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,29.5900001525879
+Turkey,TUR,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,27.8099994659424
+Turkey,TUR,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,26.1200008392334
+Turkey,TUR,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,25.1200008392334
+Turkey,TUR,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,25.0200004577637
+Turkey,TUR,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,25.1800003051758
+Turkey,TUR,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,25.1599998474121
+Turkey,TUR,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,27.9500007629395
+Turkey,TUR,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,29.2900009155273
+Turkey,TUR,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,28.3899993896484
+Turkey,TUR,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,27.8700008392334
+Turkey,TUR,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.2900009155273
+Turkey,TUR,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,30.6399993896484
+Turkey,TUR,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,30.3299999237061
+Turkey,TUR,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.2099990844727
+Turkey,TUR,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.6300010681152
+Turkey,TUR,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,33.0499992370605
+Turkey,TUR,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,28.4400005340576
+Turkey,TUR,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,34.560001373291
+Turkey,TUR,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,36.2000007629395
+Turkey,TUR,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,36.2099990844727
+Turkey,TUR,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.9499969482422
+Turkey,TUR,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.3899993896484
+Turkey,TUR,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.1399993896484
+Turkey,TUR,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,77.5400009155273
+Turkey,TUR,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.9700012207031
+Turkey,TUR,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.4599990844727
+Turkey,TUR,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.370002746582
+Turkey,TUR,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.7300033569336
+Turkey,TUR,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.4100036621094
+Turkey,TUR,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.5
+Turkey,TUR,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,73.9100036621094
+Turkey,TUR,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,73.6900024414063
+Turkey,TUR,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,73.1399993896484
+Turkey,TUR,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,72.9700012207031
+Turkey,TUR,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.629997253418
+Turkey,TUR,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.2200012207031
+Turkey,TUR,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,72.9100036621094
+Turkey,TUR,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,74.1500015258789
+Turkey,TUR,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.3000030517578
+Turkey,TUR,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.0999984741211
+Turkey,TUR,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.4000015258789
+Turkey,TUR,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.3899993896484
+Turkey,TUR,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.6100006103516
+Turkey,TUR,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.1800003051758
+Turkey,TUR,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.7200012207031
+Turkey,TUR,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.7099990844727
+Turkey,TUR,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.4000015258789
+Turkey,TUR,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,82.9100036621094
+Turkey,TUR,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,83.4700012207031
+Turkey,TUR,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,84.0999984741211
+Turkey,TUR,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.0900001525879
+Turkey,TUR,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.0800018310547
+Turkey,TUR,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.5499992370605
+Turkey,TUR,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.560001373291
+Turkey,TUR,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,55.5900001525879
+Turkey,TUR,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.5999984741211
+Turkey,TUR,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,53.8699989318848
+Turkey,TUR,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,52.810001373291
+Turkey,TUR,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,52.7799987792969
+Turkey,TUR,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,51.6100006103516
+Turkey,TUR,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,50.4000015258789
+Turkey,TUR,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,49.4199981689453
+Turkey,TUR,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,48.6300010681152
+Turkey,TUR,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,48.4900016784668
+Turkey,TUR,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,49.3899993896484
+Turkey,TUR,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,49.1800003051758
+Turkey,TUR,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,49.9599990844727
+Turkey,TUR,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,51.2599983215332
+Turkey,TUR,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,51.3699989318848
+Turkey,TUR,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,51.5099983215332
+Turkey,TUR,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.3899993896484
+Turkey,TUR,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.5499992370605
+Turkey,TUR,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.5200004577637
+Turkey,TUR,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,55.7700004577637
+Turkey,TUR,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.2599983215332
+Turkey,TUR,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.9799995422363
+Turkey,TUR,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.4799995422363
+Turkey,TUR,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.3499984741211
+Turkey,TUR,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.4700012207031
+Turkey,TUR,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.7900009155273
+Turkey,TUR,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.2700004577637
+Turkey,TUR,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.0800018310547
+Turkey,TUR,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.5299987792969
+Turkey,TUR,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,32.4700012207031
+Turkey,TUR,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.4500007629395
+Turkey,TUR,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.2299995422363
+Turkey,TUR,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.0900001525879
+Turkey,TUR,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,28.8700008392334
+Turkey,TUR,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,28.3199996948242
+Turkey,TUR,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,27.0300006866455
+Turkey,TUR,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,25.4799995422363
+Turkey,TUR,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.9899997711182
+Turkey,TUR,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.1100006103516
+Turkey,TUR,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.0499992370605
+Turkey,TUR,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.2999992370605
+Turkey,TUR,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.3799991607666
+Turkey,TUR,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,26.2099990844727
+Turkey,TUR,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,27.5499992370605
+Turkey,TUR,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,26.8400001525879
+Turkey,TUR,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,26.2900009155273
+Turkey,TUR,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,29.7700004577637
+Turkey,TUR,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,29.0400009155273
+Turkey,TUR,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,28.6000003814697
+Turkey,TUR,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.3799991607666
+Turkey,TUR,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.75
+Turkey,TUR,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.0699996948242
+Turkey,TUR,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,26.6000003814697
+Turkey,TUR,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,32.5099983215332
+Turkey,TUR,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,33.939998626709
+Turkey,TUR,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,34.0400009155273
+Turkey,TUR,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.1600036621094
+Turkey,TUR,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.75
+Turkey,TUR,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.5800018310547
+Turkey,TUR,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.0699996948242
+Turkey,TUR,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.629997253418
+Turkey,TUR,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.1800003051758
+Turkey,TUR,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.3600006103516
+Turkey,TUR,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.7900009155273
+Turkey,TUR,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.5100021362305
+Turkey,TUR,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.6399993896484
+Turkey,TUR,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.0999984741211
+Turkey,TUR,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.9199981689453
+Turkey,TUR,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.3899993896484
+Turkey,TUR,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.3899993896484
+Turkey,TUR,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.120002746582
+Turkey,TUR,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.8899993896484
+Turkey,TUR,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.9100036621094
+Turkey,TUR,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.2200012207031
+Turkey,TUR,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.6500015258789
+Turkey,TUR,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.620002746582
+Turkey,TUR,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.9300003051758
+Turkey,TUR,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.9599990844727
+Turkey,TUR,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.0999984741211
+Turkey,TUR,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.879997253418
+Turkey,TUR,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.4599990844727
+Turkey,TUR,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.2699966430664
+Turkey,TUR,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.879997253418
+Turkey,TUR,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,79.5899963378906
+Turkey,TUR,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,80.129997253418
+Turkey,TUR,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,80.7900009155273
+Turkey,TUR,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,16.3799991607666
+Turkey,TUR,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.7399997711182
+Turkey,TUR,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.8500003814697
+Turkey,TUR,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,13.6000003814697
+Turkey,TUR,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,12.5600004196167
+Turkey,TUR,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.8100004196167
+Turkey,TUR,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.5299997329712
+Turkey,TUR,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.35999965667725
+Turkey,TUR,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.0600004196167
+Turkey,TUR,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.3800001144409
+Turkey,TUR,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,12.6099996566772
+Turkey,TUR,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.97999954223633
+Turkey,TUR,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.14999961853027
+Turkey,TUR,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.10000038146973
+Turkey,TUR,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,11.1800003051758
+Turkey,TUR,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.9899997711182
+Turkey,TUR,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.1099996566772
+Turkey,TUR,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.47000026702881
+Turkey,TUR,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.48000001907349
+Turkey,TUR,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.26999998092651
+Turkey,TUR,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.59000015258789
+Turkey,TUR,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.80999994277954
+Turkey,TUR,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.78999996185303
+Turkey,TUR,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.96999979019165
+Turkey,TUR,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.32999992370605
+Turkey,TUR,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.10000038146973
+Turkey,TUR,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.35000038146973
+Turkey,TUR,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.78000020980835
+Turkey,TUR,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.1399998664856
+Turkey,TUR,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,12.3100004196167
+Turkey,TUR,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.48999977111816
+Turkey,TUR,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.34000015258789
+Turkey,TUR,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.52999973297119
+Turkey,TUR,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.15999984741211
+Turkey,TUR,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.01000022888184
+Turkey,TUR,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.92000007629395
+Turkey,TUR,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.61999988555908
+Turkey,TUR,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.26000022888184
+Turkey,TUR,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.3599996566772
+Turkey,TUR,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,12.5299997329712
+Turkey,TUR,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.60999965667725
+Turkey,TUR,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.77000045776367
+Turkey,TUR,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.57999992370605
+Turkey,TUR,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.4399995803833
+Turkey,TUR,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.7799997329712
+Turkey,TUR,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.7200002670288
+Turkey,TUR,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.7299995422363
+Turkey,TUR,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.73999977111816
+Turkey,TUR,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.57999992370605
+Turkey,TUR,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.73000001907349
+Turkey,TUR,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.92000007629395
+Turkey,TUR,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.46000003814697
+Turkey,TUR,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.90000009536743
+Turkey,TUR,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.78000020980835
+Turkey,TUR,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.77999973297119
+Turkey,TUR,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.81999969482422
+Turkey,TUR,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.81999969482422
+Turkey,TUR,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.6899995803833
+Turkey,TUR,2019,Refugee population by country or territory of asylum,SM.POP.REFG,3579531
+Turkey,TUR,2018,Refugee population by country or territory of asylum,SM.POP.REFG,3681688
+Turkey,TUR,2017,Refugee population by country or territory of asylum,SM.POP.REFG,3480350
+Turkey,TUR,2016,Refugee population by country or territory of asylum,SM.POP.REFG,2869419
+Turkey,TUR,2015,Refugee population by country or territory of asylum,SM.POP.REFG,2541348
+Turkey,TUR,2014,Refugee population by country or territory of asylum,SM.POP.REFG,1587365
+Turkey,TUR,2013,Refugee population by country or territory of asylum,SM.POP.REFG,609931
+Turkey,TUR,2012,Refugee population by country or territory of asylum,SM.POP.REFG,267063
+Turkey,TUR,2011,Refugee population by country or territory of asylum,SM.POP.REFG,14457
+Turkey,TUR,2010,Refugee population by country or territory of asylum,SM.POP.REFG,10025
+Turkey,TUR,2009,Refugee population by country or territory of asylum,SM.POP.REFG,10339
+Turkey,TUR,2008,Refugee population by country or territory of asylum,SM.POP.REFG,11090
+Turkey,TUR,2007,Refugee population by country or territory of asylum,SM.POP.REFG,6941
+Turkey,TUR,2006,Refugee population by country or territory of asylum,SM.POP.REFG,2624
+Turkey,TUR,2005,Refugee population by country or territory of asylum,SM.POP.REFG,2395
+Turkey,TUR,2004,Refugee population by country or territory of asylum,SM.POP.REFG,3029
+Turkey,TUR,2003,Refugee population by country or territory of asylum,SM.POP.REFG,2488
+Turkey,TUR,2002,Refugee population by country or territory of asylum,SM.POP.REFG,3302
+Turkey,TUR,2001,Refugee population by country or territory of asylum,SM.POP.REFG,3466
+Turkey,TUR,2000,Refugee population by country or territory of asylum,SM.POP.REFG,3096
+Turkey,TUR,1999,Refugee population by country or territory of asylum,SM.POP.REFG,2810
+Turkey,TUR,1998,Refugee population by country or territory of asylum,SM.POP.REFG,2529
+Turkey,TUR,1997,Refugee population by country or territory of asylum,SM.POP.REFG,2448
+Turkey,TUR,1996,Refugee population by country or territory of asylum,SM.POP.REFG,8166
+Turkey,TUR,1995,Refugee population by country or territory of asylum,SM.POP.REFG,12841
+Turkey,TUR,1994,Refugee population by country or territory of asylum,SM.POP.REFG,24927
+Turkey,TUR,1993,Refugee population by country or territory of asylum,SM.POP.REFG,23267
+Turkey,TUR,1992,Refugee population by country or territory of asylum,SM.POP.REFG,28477
+Turkey,TUR,1991,Refugee population by country or territory of asylum,SM.POP.REFG,30462
+Turkey,TUR,1990,Refugee population by country or territory of asylum,SM.POP.REFG,28000
+Turkey,TUR,1989,Refugee population by country or territory of asylum,SM.POP.REFG,33067
+Turkey,TUR,1988,Refugee population by country or territory of asylum,SM.POP.REFG,4450
+Turkey,TUR,1987,Refugee population by country or territory of asylum,SM.POP.REFG,2200
+Turkey,TUR,1986,Refugee population by country or territory of asylum,SM.POP.REFG,1920
+Turkey,TUR,1985,Refugee population by country or territory of asylum,SM.POP.REFG,1790
+Turkey,TUR,1984,Refugee population by country or territory of asylum,SM.POP.REFG,2600
+Turkey,TUR,1983,Refugee population by country or territory of asylum,SM.POP.REFG,1320
+Turkey,TUR,1982,Refugee population by country or territory of asylum,SM.POP.REFG,1670
+Turkey,TUR,1981,Refugee population by country or territory of asylum,SM.POP.REFG,1180
+Turkey,TUR,1980,Refugee population by country or territory of asylum,SM.POP.REFG,6100
+Turkey,TUR,1979,Refugee population by country or territory of asylum,SM.POP.REFG,1060
+Turkey,TUR,1978,Refugee population by country or territory of asylum,SM.POP.REFG,1070
+Turkey,TUR,1977,Refugee population by country or territory of asylum,SM.POP.REFG,1050
+Turkey,TUR,1976,Refugee population by country or territory of asylum,SM.POP.REFG,1060
+Turkey,TUR,1975,Refugee population by country or territory of asylum,SM.POP.REFG,1060
+Turkey,TUR,1974,Refugee population by country or territory of asylum,SM.POP.REFG,1060
+Turkey,TUR,1973,Refugee population by country or territory of asylum,SM.POP.REFG,1160
+Turkey,TUR,1972,Refugee population by country or territory of asylum,SM.POP.REFG,1160
+Turkey,TUR,1971,Refugee population by country or territory of asylum,SM.POP.REFG,1150
+Turkey,TUR,1970,Refugee population by country or territory of asylum,SM.POP.REFG,1170
+Turkey,TUR,1969,Refugee population by country or territory of asylum,SM.POP.REFG,1400
+Turkey,TUR,1968,Refugee population by country or territory of asylum,SM.POP.REFG,1980
+Turkey,TUR,1967,Refugee population by country or territory of asylum,SM.POP.REFG,1850
+Turkey,TUR,1966,Refugee population by country or territory of asylum,SM.POP.REFG,1900
+Turkey,TUR,1965,Refugee population by country or territory of asylum,SM.POP.REFG,2000
+Turkey,TUR,1964,Refugee population by country or territory of asylum,SM.POP.REFG,2300
+Turkey,TUR,1963,Refugee population by country or territory of asylum,SM.POP.REFG,2300
+Turkey,TUR,1962,Refugee population by country or territory of asylum,SM.POP.REFG,2300
+Turkey,TUR,1961,Refugee population by country or territory of asylum,SM.POP.REFG,2300
+Turkey,TUR,1960,Refugee population by country or territory of asylum,SM.POP.REFG,2200
+Turkey,TUR,2019,Refugee population by country or territory of origin,SM.POP.REFG.OR,83271
+Turkey,TUR,2018,Refugee population by country or territory of origin,SM.POP.REFG.OR,68900
+Turkey,TUR,2017,Refugee population by country or territory of origin,SM.POP.REFG.OR,61383
+Turkey,TUR,2016,Refugee population by country or territory of origin,SM.POP.REFG.OR,57915
+Turkey,TUR,2015,Refugee population by country or territory of origin,SM.POP.REFG.OR,59545
+Turkey,TUR,2014,Refugee population by country or territory of origin,SM.POP.REFG.OR,63882
+Turkey,TUR,2013,Refugee population by country or territory of origin,SM.POP.REFG.OR,66558
+Turkey,TUR,2012,Refugee population by country or territory of origin,SM.POP.REFG.OR,135355
+Turkey,TUR,2011,Refugee population by country or territory of origin,SM.POP.REFG.OR,139764
+Turkey,TUR,2010,Refugee population by country or territory of origin,SM.POP.REFG.OR,146786
+Turkey,TUR,2009,Refugee population by country or territory of origin,SM.POP.REFG.OR,146379
+Turkey,TUR,2008,Refugee population by country or territory of origin,SM.POP.REFG.OR,214367
+Turkey,TUR,2007,Refugee population by country or territory of origin,SM.POP.REFG.OR,221937
+Turkey,TUR,2006,Refugee population by country or territory of origin,SM.POP.REFG.OR,227236
+Turkey,TUR,2005,Refugee population by country or territory of origin,SM.POP.REFG.OR,170557
+Turkey,TUR,2004,Refugee population by country or territory of origin,SM.POP.REFG.OR,174572
+Turkey,TUR,2003,Refugee population by country or territory of origin,SM.POP.REFG.OR,185086
+Turkey,TUR,2002,Refugee population by country or territory of origin,SM.POP.REFG.OR,193697
+Turkey,TUR,2001,Refugee population by country or territory of origin,SM.POP.REFG.OR,47085
+Turkey,TUR,2000,Refugee population by country or territory of origin,SM.POP.REFG.OR,47154
+Turkey,TUR,1999,Refugee population by country or territory of origin,SM.POP.REFG.OR,44012
+Turkey,TUR,1998,Refugee population by country or territory of origin,SM.POP.REFG.OR,45019
+Turkey,TUR,1997,Refugee population by country or territory of origin,SM.POP.REFG.OR,47339
+Turkey,TUR,1996,Refugee population by country or territory of origin,SM.POP.REFG.OR,50355
+Turkey,TUR,1995,Refugee population by country or territory of origin,SM.POP.REFG.OR,44866
+Turkey,TUR,1994,Refugee population by country or territory of origin,SM.POP.REFG.OR,28872
+Turkey,TUR,1993,Refugee population by country or territory of origin,SM.POP.REFG.OR,16767
+Turkey,TUR,1992,Refugee population by country or territory of origin,SM.POP.REFG.OR,10089
+Turkey,TUR,1991,Refugee population by country or territory of origin,SM.POP.REFG.OR,6452
+Turkey,TUR,1990,Refugee population by country or territory of origin,SM.POP.REFG.OR,5508
+Turkey,TUR,1989,Refugee population by country or territory of origin,SM.POP.REFG.OR,2764
+Turkey,TUR,1988,Refugee population by country or territory of origin,SM.POP.REFG.OR,150
+Turkey,TUR,1987,Refugee population by country or territory of origin,SM.POP.REFG.OR,1085
+Turkey,TUR,1986,Refugee population by country or territory of origin,SM.POP.REFG.OR,850
+Turkey,TUR,1985,Refugee population by country or territory of origin,SM.POP.REFG.OR,810
+Turkey,TUR,1984,Refugee population by country or territory of origin,SM.POP.REFG.OR,1040
+Turkey,TUR,1983,Refugee population by country or territory of origin,SM.POP.REFG.OR,540
+Turkey,TUR,1982,Refugee population by country or territory of origin,SM.POP.REFG.OR,300
+Turkey,TUR,1979,Refugee population by country or territory of origin,SM.POP.REFG.OR,60
+Turkey,TUR,1978,Refugee population by country or territory of origin,SM.POP.REFG.OR,60
+Turkey,TUR,1977,Refugee population by country or territory of origin,SM.POP.REFG.OR,70
+Turkey,TUR,1972,Refugee population by country or territory of origin,SM.POP.REFG.OR,250
+Turkey,TUR,2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,25.5558
+Turkey,TUR,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.559
+Turkey,TUR,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.4958
+Turkey,TUR,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.4326
+Turkey,TUR,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,29.3694
+Turkey,TUR,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,30.3062
+Turkey,TUR,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,31.243
+Turkey,TUR,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,32.6972
+Turkey,TUR,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,34.1514
+Turkey,TUR,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,35.6056
+Turkey,TUR,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.0598
+Turkey,TUR,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,38.514
+Turkey,TUR,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,39.8638
+Turkey,TUR,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,41.2136
+Turkey,TUR,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,42.5634
+Turkey,TUR,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,43.9132
+Turkey,TUR,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,45.263
+Turkey,TUR,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.1464
+Turkey,TUR,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.0298
+Turkey,TUR,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,50.9132
+Turkey,TUR,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,52.7966
+Turkey,TUR,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,54.68
+Turkey,TUR,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,55.7972
+Turkey,TUR,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,56.9144
+Turkey,TUR,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,58.0316
+Turkey,TUR,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,59.1488
+Turkey,TUR,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,60.266
+Turkey,TUR,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,62.5874
+Turkey,TUR,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,64.9088
+Turkey,TUR,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,67.2302
+Turkey,TUR,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,69.5516
+Turkey,TUR,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,71.873
+Turkey,TUR,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,74.6462
+Turkey,TUR,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,77.4194
+Turkey,TUR,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,80.1926
+Turkey,TUR,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,82.9658
+Turkey,TUR,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,85.739
+Turkey,TUR,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,87.8774
+Turkey,TUR,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,90.0158
+Turkey,TUR,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,92.1542
+Turkey,TUR,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,94.2926
+Turkey,TUR,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,96.431
+Turkey,TUR,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,98.2402
+Turkey,TUR,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,100.0494
+Turkey,TUR,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,101.8586
+Turkey,TUR,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,103.6678
+Turkey,TUR,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,105.477
+Turkey,TUR,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,107.2178
+Turkey,TUR,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.9586
+Turkey,TUR,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,110.6994
+Turkey,TUR,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,112.4402
+Turkey,TUR,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,114.181
+Turkey,TUR,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,115.4564
+Turkey,TUR,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,116.7318
+Turkey,TUR,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,118.0072
+Turkey,TUR,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,119.2826
+Turkey,TUR,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,120.558
+Turkey,TUR,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,121.4558
+Turkey,TUR,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,122.3536
+Turkey,TUR,2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.336
+Turkey,TUR,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.088
+Turkey,TUR,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.816
+Turkey,TUR,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.522
+Turkey,TUR,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.209
+Turkey,TUR,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.88
+Turkey,TUR,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.541
+Turkey,TUR,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.194
+Turkey,TUR,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.84
+Turkey,TUR,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.479
+Turkey,TUR,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.111
+Turkey,TUR,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.734
+Turkey,TUR,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.346
+Turkey,TUR,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.949
+Turkey,TUR,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.543
+Turkey,TUR,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.127
+Turkey,TUR,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.697
+Turkey,TUR,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.252
+Turkey,TUR,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.784
+Turkey,TUR,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.284
+Turkey,TUR,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.749
+Turkey,TUR,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.182
+Turkey,TUR,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.588
+Turkey,TUR,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.975
+Turkey,TUR,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.358
+Turkey,TUR,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.748
+Turkey,TUR,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.155
+Turkey,TUR,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.58
+Turkey,TUR,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.027
+Turkey,TUR,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.494
+Turkey,TUR,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.968
+Turkey,TUR,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.441
+Turkey,TUR,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.905
+Turkey,TUR,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.35
+Turkey,TUR,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.768
+Turkey,TUR,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.158
+Turkey,TUR,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.518
+Turkey,TUR,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.849
+Turkey,TUR,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.153
+Turkey,TUR,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.435
+Turkey,TUR,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.703
+Turkey,TUR,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.966
+Turkey,TUR,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.231
+Turkey,TUR,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,58.505
+Turkey,TUR,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,57.793
+Turkey,TUR,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,57.095
+Turkey,TUR,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,56.41
+Turkey,TUR,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.738
+Turkey,TUR,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.079
+Turkey,TUR,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.427
+Turkey,TUR,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,53.779
+Turkey,TUR,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,53.13
+Turkey,TUR,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,52.478
+Turkey,TUR,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.819
+Turkey,TUR,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.149
+Turkey,TUR,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,50.471
+Turkey,TUR,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,49.789
+Turkey,TUR,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,49.108
+Turkey,TUR,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,48.433
+Turkey,TUR,2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.447
+Turkey,TUR,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.149
+Turkey,TUR,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.826
+Turkey,TUR,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.47
+Turkey,TUR,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.075
+Turkey,TUR,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.644
+Turkey,TUR,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.181
+Turkey,TUR,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.694
+Turkey,TUR,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.199
+Turkey,TUR,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.716
+Turkey,TUR,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.255
+Turkey,TUR,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.822
+Turkey,TUR,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.41
+Turkey,TUR,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.004
+Turkey,TUR,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.579
+Turkey,TUR,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.113
+Turkey,TUR,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.592
+Turkey,TUR,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.015
+Turkey,TUR,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.39
+Turkey,TUR,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.731
+Turkey,TUR,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.063
+Turkey,TUR,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.407
+Turkey,TUR,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.775
+Turkey,TUR,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.179
+Turkey,TUR,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.628
+Turkey,TUR,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.114
+Turkey,TUR,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.629
+Turkey,TUR,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.167
+Turkey,TUR,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.716
+Turkey,TUR,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.263
+Turkey,TUR,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.796
+Turkey,TUR,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.308
+Turkey,TUR,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.793
+Turkey,TUR,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.252
+Turkey,TUR,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.691
+Turkey,TUR,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.119
+Turkey,TUR,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.545
+Turkey,TUR,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.971
+Turkey,TUR,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.395
+Turkey,TUR,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.815
+Turkey,TUR,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.225
+Turkey,TUR,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.626
+Turkey,TUR,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.02
+Turkey,TUR,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.414
+Turkey,TUR,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.82
+Turkey,TUR,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.241
+Turkey,TUR,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.68
+Turkey,TUR,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.129
+Turkey,TUR,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,49.578
+Turkey,TUR,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,49.009
+Turkey,TUR,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.409
+Turkey,TUR,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,47.768
+Turkey,TUR,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,47.085
+Turkey,TUR,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,46.361
+Turkey,TUR,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,45.599
+Turkey,TUR,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,44.815
+Turkey,TUR,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,44.025
+Turkey,TUR,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,43.244
+Turkey,TUR,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,42.481

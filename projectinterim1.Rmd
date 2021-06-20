@@ -1,0 +1,532 @@
+---
+title: "Turkey's Social Development"
+author: "Riot"
+date: "`r Sys.Date()`"
+output: html_document
+---
+\begin{center}
+Tarık Kayalı - Yusuf Emre Bayat
+\end{center}
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r, include = FALSE, echo = FALSE}
+### Loading required packages
+library(readr)
+library(knitr)
+library(tidyverse)
+library(tm)
+library(wordcloud)
+library(RColorBrewer)
+library(viridis)
+```
+
+
+```{r, echo = FALSE}
+# Changing column names 
+col_names = c("country.name", "country.code", "date", "indicator.name", "indicator.code", "score")
+
+# Importing data
+data <- read.csv("social-development_tur.csv", skip = 1, col.names = col_names)
+```
+
+\newpage
+# Project Description
+### Project Goal & Social Problem 
+
+Countries develop socially over the years and tend to develop by inferring from past crises. Although Turkey shows a trend in this direction, its social development has always been a matter of debate. We wanted to show what situation Turkey is in by visualizing the development of Turkey over the years, through the problems seen in the word cloud below, such as unemployment, literacy rate, and child workers.
+
+```{r, echo = FALSE}
+# Manipulating our dataset to make a wordcloud.
+data_wordcloud <- data %>% mutate(id = c(1:866))
+data_wordcloud <- data_wordcloud %>% 
+  select("date", "indicator.name", "indicator.code", "score", "id") %>%
+  mutate(words = case_when(data_wordcloud$id <= 17 ~ "Literacy Rate",
+                           data_wordcloud$id >=18  & data_wordcloud$id <= 190 ~ "School Enrollment",
+                           data_wordcloud$id >=191  & data_wordcloud$id <= 213 ~ "Woman in Parliaments",
+                           data_wordcloud$id >=214  & data_wordcloud$id <= 271 ~ "Vulnerable Employment",
+                           data_wordcloud$id >=272  & data_wordcloud$id <= 289 ~ "Children in Employment",
+                           data_wordcloud$id >=290  & data_wordcloud$id <= 529 ~ "Labor Force Participation",
+                           data_wordcloud$id >=530  & data_wordcloud$id <= 587 ~ "Unemployment",
+                           data_wordcloud$id >=588  & data_wordcloud$id <= 689 ~ "Refugee Population",
+                           data_wordcloud$id >=690  & data_wordcloud$id <= 748 ~ "Adolescent Fertility",
+                           data_wordcloud$id >=749  & data_wordcloud$id <= 866 ~ "Life Expectancy",
+                           TRUE ~ "Very Good")) %>% 
+  group_by(words)%>% 
+  summarize(n = n()) 
+
+# Wordcloud settings
+x <- wordcloud(words = data_wordcloud$words, 
+               freq = data_wordcloud$n, 
+               min.freq = 1, 
+               max.words=200, 
+               random.order=F, 
+               rot.per=0.1, 
+               colors=brewer.pal(8, "Dark2"), 
+               scale=c(2,.5))
+```
+\newpage
+
+## Data Description
+
+  Data here cover child labor, gender issues, refugees, and asylum seekers. Children in many countries work long hours, often combining studying with work for pay. The data on their paid work are from household surveys conducted by the International Labour Organization (ILO), the United Nations Children's Fund (UNICEF), the World Bank, and national statistical offices. Gender disparities are measured using a compilation of data on key topics such as education, health, labor force participation, and political participation. Data on refugees are from the United Nations High Commissioner for Refugees complemented by statistics on Palestinian refugees under the mandate of the United Nations Relief and Works Agency.
+
+## Access to data:
+
+Data is a csv file.
+
+[Click here for accessing the data](https://data.humdata.org/dataset/46e2d084-6773-4b10-aad4-de6b0e416c4a)
+
+[Click here for download](https://data.humdata.org/dataset/46e2d084-6773-4b10-aad4-de6b0e416c4a/resource/c4ad6545-a76c-4a7d-b9cb-7c53605e3ae2/download/social-development_tur.csv)
+
+## Variables: 
+
+- Country Name
+- Country ISO3
+- Year
+- Indicator Names (Adolescent fertility rate, Children in employment, Labor force participation rate, Labor force participation rate for ages 15-24, Life expectancy at birth, Literacy rate, Proportion of seats held by women in national parliaments, Refugee population by country or territory of asylum, Refugee population by country or territory of origin, School enrollment, Unemployment, Vulnerable employment)
+- Indicator Code
+- Value
+
+
+
+
+```{r, echo = FALSE}
+# ID assignment 
+df <- data %>% mutate(id = c(1:866))
+df <- df %>% 
+  select("date", "indicator.name", "indicator.code", "score", "id") %>%
+  mutate(words = case_when(df$id <= 17 ~ "Literacy Rate",
+                           df$id >=18  & df$id <= 190 ~ "School Enrollment",
+                           df$id >=191  & df$id <= 213 ~ "Woman in Parliaments",
+                           df$id >=214  & df$id <= 271 ~ "Vulnerable Employment",
+                           df$id >=272  & df$id <= 289 ~ "Children in Employment",
+                           df$id >=290  & df$id <= 529 ~ "Labor Force Participation",
+                           df$id >=530  & df$id <= 587 ~ "Unemployment",
+                           df$id >=588  & df$id <= 689 ~ "Refugee Population",
+                           df$id >=690  & df$id <= 748 ~ "Adolescent Fertility",
+                           df$id >=749  & df$id <= 866 ~ "Life Expectancy",
+                           TRUE ~ "Very Good"))
+
+```
+
+
+
+
+
+```{r, echo = FALSE}
+
+data_school_env <- data %>% mutate(id = c(1:866)) # Assigning ID's for all values.
+
+data_school_env <- data_school_env %>% 
+  select("date", "indicator.name", "indicator.code", "score", "id") %>%
+  mutate(name = case_when(data_school_env$id <= 17 ~ "Literacy Rate",
+                           data_school_env$id >=18   & data_school_env$id <= 61 ~ "School Enrollment, primary",
+                           data_school_env$id >=62   & data_school_env$id <= 102 ~ "School Enrollment, primary and secondary",
+                           data_school_env$id >=103  & data_school_env$id <= 145 ~ "School Enrollment, secondary",
+                           data_school_env$id >=146  & data_school_env$id <= 190 ~ "School Enrollment, tertiary",
+                           data_school_env$id >=191  & data_school_env$id <= 213 ~ "Woman in Parliaments",
+                           data_school_env$id >=214  & data_school_env$id <= 271 ~ "Vulnerable Employment",
+                           data_school_env$id >=272  & data_school_env$id <= 289 ~ "Children in Employment",
+                           data_school_env$id >=290  & data_school_env$id <= 529 ~ "Labor Force Participation",
+                           data_school_env$id >=530  & data_school_env$id <= 587 ~ "Unemployment",
+                           data_school_env$id >=588  & data_school_env$id <= 689 ~ "Refugee Population",
+                           data_school_env$id >=690  & data_school_env$id <= 748 ~ "Adolescent Fertility",
+                           data_school_env$id >=749  & data_school_env$id <= 866 ~ "Life Expectancy",
+                           TRUE ~ "Very Good")) %>%
+  select("date", "name", "score") %>%
+  filter(name %in% c("School Enrollment, primary", "School Enrollment, secondary", "School Enrollment, tertiary")) %>% 
+  add_row(date = 1980, name = "School Enrollment, primary", score = 0.83725)  %>% 
+  add_row(date = 1983, name = "School Enrollment, primary", score = 0.85730) %>%
+  add_row(date = 1996, name = "School Enrollment, secondary", score = 0.67605) %>%
+  add_row(date = 1998, name = "School Enrollment, secondary", score = 0.72321) %>%
+  add_row(date = 1981, name = "School Enrollment, secondary", score = 0.48245) %>%
+  add_row(date = 1975, name = "School Enrollment, secondary", score = 0.45209) %>%
+  add_row(date = 1985, name = "School Enrollment, secondary", score = 0.54280) %>%
+  add_row(date = 1981, name = "School Enrollment, tertiary", score = 0.30171) %>%
+  add_row(date = 1996, name = "School Enrollment, tertiary", score = 0.61768) %>%
+  add_row(date = 2000, name = "School Enrollment, tertiary", score = 0.66074) %>%
+  arrange(name, date)
+```
+
+\newpage
+
+# School Enrollment Visualization Code
+
+```{r, warning=FALSE, message=FALSE}
+lit_rate = head(data, 17) # Subsetting for literacy rate data.
+lit_rate <- lit_rate %>% mutate(score = ((3*(score-0.75207))/(1-0.75207))) 
+# scaling range of geom_line
+
+ggplot() +
+  aes(x = date, y = score, fill = name, colour = name) +
+  geom_area(data = data_school_env,datasize = 0.5, alpha = 0.9, colour = "white") +
+  geom_line(data = lit_rate,
+            aes(x = date, y = score),
+            inherit.aes = F, # Because of using another data.
+            colour = "#BF1363",
+            size = 0.8) +
+  scale_fill_brewer(palette = "Paired", direction = -1) +
+  scale_color_brewer(palette = "Paired", direction = -1) +
+  labs(
+    x = "Years",
+    y = "Score",
+    title = "School Enrollment in Years",
+    caption = "Graphic 1"
+  ) +
+  ggplot2::annotate("text", x=2016, y=3.1, label= "Literacy Rate", colour = "#BF1363") +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(
+      size = 15L,
+      face = "bold.italic",
+      hjust = 0.5
+    ),
+    legend.position = "bottom",
+    plot.caption = element_text(hjust = 0),
+    axis.title.y = element_text(face = "bold"),
+    axis.title.x = element_text(face = "bold"),
+    legend.title = element_blank()
+  ) 
+```
+\newline
+\newline
+\newline
+\newline
+
+### Results and Discussion on School Enrollment in Years
+
+  This chart shows the enrollment rates in middle school, high school, and university, respectively. We can observe that the literacy rate in Turkey has been on an increasing trend since the 1970s. The main reason for this is that Turkey has to reach certain criteria during the membership process to the European Union.
+
+\newpage
+
+# Codes for Life Expectancy Variable
+
+```{r}
+# Selecting required rows 
+lifeexpectancy <- df %>%
+  filter(df$words == "Life Expectancy") 
+
+lifeexpectancy <- lifeexpectancy %>% 
+  mutate(words = case_when(lifeexpectancy$id <= 807 ~ "Female",
+                           lifeexpectancy$id >= 808  ~ "Male"))
+
+```
+
+```{r}
+lifeexpectancy_female <- lifeexpectancy  %>%
+  filter(lifeexpectancy$words == "Female")
+lifeexpectancy_male <- lifeexpectancy  %>%
+  filter(lifeexpectancy$words == "Male")
+
+```
+
+```{r warning=FALSE, message=FALSE}
+
+lifeexpectancy %>%
+  ggplot( aes(x=date, y=score, group=words, color=words)) +
+  geom_line() +
+  scale_color_viridis(discrete = TRUE) +
+  labs(title = "Life Expectancy", x = "Year", y ="Life Span") +
+  scale_colour_manual(values = c("#F44D5C", "#1E8FCB")) +
+  theme_minimal() +
+  theme( 
+    plot.title = element_text(
+      size = 15L,
+      face = "bold.italic",
+      hjust = 0.5
+    ),
+    legend.position = "bottom",
+    plot.caption = element_text(hjust = 0),
+    axis.title.y = element_text(face = "bold"),
+    axis.title.x = element_text(face = "bold"),
+    legend.title = element_blank()
+)
+```
+\newline
+\newline
+\newline
+\newline
+
+### Results and Discussion on Life Expactancy
+
+  Indexes have been developed to measure Social Development. One of these indexes is Life Expectancy. When we look at the Life Expectancy in Turkey, there is a noticeable high increase. Positive developments in the world and in Turkey have led to an increase in life expectancy. Life Expectancy, which was below 50 in 1960, is now 70 for men and over 80 for women.
+
+\newpage
+
+# Codes For Faceted Graphs
+
+```{r}
+# Selecting and filtering required rows.
+unemployment <- df %>%
+  filter(df$words == "Unemployment") 
+unemployment  <- unemployment  %>% 
+  mutate(words = case_when(unemployment$id <= 558 ~ " Unemployment Female", 
+                           unemployment$id >= 559  ~ "Unemployment Male"))
+```
+
+
+```{r}
+# Tidying data for using in faceting.
+vul_employment <- data %>%
+  mutate(id = c(1:866)) %>%
+  select("indicator.name", "date","score", "id") %>% 
+  filter((id >= 214 & id <= 587)) %>%
+  filter(!(id >= 272 & id <= 529))
+vul_employment <- vul_employment %>%
+  mutate(gender = case_when(vul_employment$id <= 242 ~ "Female",
+                            vul_employment$id >242 & vul_employment$id <= 271 ~ "Male",
+                            vul_employment$id >= 272 & vul_employment$id <= 558 ~ "Female",
+                            vul_employment$id >= 559 ~ "Male"))
+  
+                                            
+labs <- c("Female Unemployment (standardized)", 
+          "Male Unemployment (standardized)", 
+          "Female Vulnerable Employment (standardized)", 
+          "Male Vulnerable Employment (standardized)")
+
+names(labs) <- c("Unemployment, female (% of female labor force) (modeled ILO estimate)", 
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)", 
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)")
+
+ggplot( vul_employment , aes(x=date, y=score, color = gender)) + 
+  geom_line() +  
+  facet_wrap(~indicator.name, labeller = labeller(indicator.name = labs)) + # faceting
+  theme_minimal() +
+  labs(x = "Year", y ="Percentage") +
+  theme(legend.position="none",
+        plot.title = element_text(
+      size = 15L,
+      face = "bold.italic",
+      hjust = 0.5
+    ),
+    plot.caption = element_text(hjust = 0),
+    axis.title.y = element_text(face = "bold"),
+    axis.title.x = element_text(face = "bold"),
+  )
+
+
+
+```
+
+### Results and Discussion on Vulnerable Employment
+
+  Vulnerable Employment, defined as uninsured and unsafe work, has decreased over the years. Thus, progress has been made. There appears to be a small increase in women in 2009. We think that the reason for this increase is the economic crisis that took place in 2009.
+
+\newpage
+
+# Code For Unemployment Graph
+
+```{r, warning=FALSE, message=FALSE}
+unemployment %>%
+  ggplot(aes(x=date, y=score, group=words, color=words)) +
+  geom_line() +
+  scale_color_viridis(discrete = TRUE) +
+  labs(title = "Unemployment", x = "Year", y ="Unemployment %")+
+  scale_colour_manual(values = c("#F44D5C", "#1E8FCB")) +
+  theme_minimal() +
+  theme( 
+    plot.title = element_text(
+      size = 15L,
+      face = "bold.italic",
+      hjust = 0.5
+    ),
+    legend.position = "bottom",
+    plot.caption = element_text(hjust = 0),
+    axis.title.y = element_text(face = "bold"),
+    axis.title.x = element_text(face = "bold"),
+    legend.title = element_blank()
+)
+
+```
+\newpage
+
+### Results and Discussion on Unemployment 
+
+  One of the Social Development indexes is the unemployment rate. Due to various events in Turkey, the unemployment rate varies sharply over the years. Due to the crisis in 2009, the unemployment rate increased sharply. Afterwards, it decreased for a short time, but unemployment started to increase due to the decrease in Turkey's growth rate. Increasing population and lack of sufficient job opportunities also led to an increase in unemployment.
+In addition, the unemployment rate of women has increased faster than men in recent years. We think the reason for this is political reasons.
+
+# Code For Labor Force Participation Graph
+
+```{r, warning=F}
+# Selecting required rows
+laborforce <- df %>%
+  filter(df$words == "Labor Force Participation") 
+
+laborforce  <- laborforce  %>% 
+  mutate(words = case_when(laborforce$id <= 319 ~ " 14-25 Age Laborforce Female",
+                        laborforce$id >= 320 & laborforce$id <= 349  ~ "14-25 Age Laborforce Male",
+                        laborforce$id >= 350 & laborforce$id <= 379 ~ "14-25 age Total",
+                        laborforce$id >= 380 & laborforce$id <= 409 ~ "15-64 Age Laborforce Female",
+                        laborforce$id >= 410 & laborforce$id <= 439 ~ "15-64 Age Laborforce Male",
+                        laborforce$id >= 440 & laborforce$id <= 469 ~ "15-64 Age Laborforce Total",
+                        laborforce$id >= 470 & laborforce$id <= 499 ~ "Laborforce Female Total",
+                        laborforce$id >= 500 ~ "Laborforce Male Total"))
+
+# Visualizing by using ggplot
+laborforce %>%
+  ggplot( aes(x=date, y=score, group=words, color=words)) +
+  geom_line() +
+  labs(title = "Laborforce Rate", x = "Year", y ="Rate %")+
+  scale_colour_manual(values = c("#F44D5C", "#1E8FCB","#01937C","#E798AE", 
+                                 "#04009A","#064420","#FFBBCC","#77ACF1" )) +
+  theme_minimal() +
+  theme( 
+      legend.text = element_text(size = 8),
+      plot.title = element_text(
+      size = 15L,
+      face = "bold.italic",
+      hjust = 0.5
+    ),
+    plot.caption = element_text(hjust = 0),
+    axis.title.y = element_text(face = "bold"),
+    axis.title.x = element_text(face = "bold"),
+    legend.title = element_blank()
+)
+
+```
+
+
+
+### Results and Discussion on Labor Force
+
+  The labor force participation rate of men is higher than that of women. Although there are various fluctuations over the years, the labor force participation rate of the young population is decreasing. The reason for this may be that young people continue their education and start working later. While female labor force participation decreased until 2005, it seems to increase after 2005. The increase in the education rate of women may also be a reason for the increase in their participation in the workforce.
+
+\newpage
+
+
+
+```{r, echo=F,warning=F}
+refugee <- df %>%
+  filter(df$words == "Refugee Population") 
+refugee  <- refugee  %>% mutate(words = case_when(refugee$id <= 647 ~ "Asylum", refugee$id >= 648  ~ "Origin"))
+
+refugee %>%
+  ggplot( aes(x=date, y=score, group=words, color=words)) +
+  geom_line() +
+  labs(title = "Refugee Population", x = "Year", y ="Refugee Population")+
+  scale_colour_manual(values = c("#222831", "#00ADB5")) +
+  theme_minimal() +
+  theme( 
+    legend.text = element_text(size = 8),
+    legend.position="bottom",
+        plot.title = element_text(
+      size = 15L,
+      face = "bold.italic",
+      hjust = 0.5
+    ),
+    plot.caption = element_text(hjust = 0),
+    axis.title.y = element_text(face = "bold"),
+    axis.title.x = element_text(face = "bold"),
+    legend.title = element_blank()
+)
+```
+
+### Results and Discussion on Refugee Population
+
+  While the asylum-seeking refugee population was progressing in its normal course, the intense refugee influx that started in 2011 caused a sharp increase in the number of refugees in the country. Since the war situation in Syria has not ended, the number of refugees has increased over the years.
+
+
+
+# Codes For 'Woman in Parliaments' Chart
+```{r, warning=F}
+womeninparliaments <- data %>%
+  filter(df$words == "Woman in Parliaments") 
+
+ggplot(womeninparliaments, aes(x=date, y=score)) +
+  geom_area( fill="#F5C0C0", alpha=0.6) +
+  geom_line(color="#FF7171", size=1) +
+  geom_point(size=1.5, color="#FF7171") +
+    theme_minimal() +
+  scale_color_viridis(discrete = TRUE) +
+  labs(title = "Woman in Parliaments", x = "Year", y ="Rate %")+
+  theme( legend.text = element_text(size = 8),
+    legend.position="bottom",
+        plot.title = element_text(
+      size = 15L,
+      face = "bold.italic",
+      hjust = 0.5
+    ),
+    plot.caption = element_text(hjust = 0),
+    axis.title.y = element_text(face = "bold"),
+    axis.title.x = element_text(face = "bold"),
+    legend.title = element_blank()
+    )
+```
+
+### Results and Discussion on Woman in Parliaments
+
+  The proportion of women in parliament has increased with each election. Over the years, women have had a greater say in the administration of the country. Stable places on the chart are when there is no election. Small decreases in stable places are the resignations of parliamentarians, etc. for such reasons.
+
+\
+
+\begin{tabular}{ |p{3.75cm}||p{3.75cm}|p{3.75cm}|p{3.75cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Task Plan} \\
+ \hline
+ & & &\\
+ 1-5 Weeks& 5-9 Weeks &9-12 Weeks&12-14 Weeks\\
+ & & &\\
+ \hline
+ & & &\\
+ We decided on the team name.& We aim to data importing, cleaning, reshaping, exploring.    &We aim to data visualizing.&   We aim to prepare the project report and presentation.\\
+ We did source search for data.&   If we need, we can change our data or merge with another data.  & We going to discuss about the status and development of the project.   &We are going to prepare and rehearse for the presentation.\\
+ We found the data. &We are going to update project proposal. & &  We are going to report final results.\\
+ We created project proposal.    &We are going to report preliminary results. & &  \\
+ & & &\\
+ \hline
+\end{tabular}
+
+\
+
+\newpage
+
+# Actions Taken
+
+### Importing 
+
+We load our dataset ‘datasets/social-development_tur.csv’ into a DataFrame and assign it to a variable. While doing these, also changed colume names of the data frame. 
+
+ 
+
+### Reshaping and cleaning 
+
+We assigned an ID for each row to make our job easier. After that we simplified the values of ‘words’ and column a bit by using case_when in a mutate function. Also, our data had some missing values, instead of deleting this missing values we filled out these values by using statistical methods for ‘Chart 1’. 
+
+ 
+
+### Visualizing  
+
+- Graph 1:  Stacked area graph used for visualizing ‘School Enrollment in Years’ graph. Also, for a better aestethic we used RColorbrewer library palettes. 
+
+- Graph 2: We used multi groups line chart with ggplot2 library for visualizing both female and male ‘Life Expactancy’. 
+
+- Graph 3: We used multi groups line chart with ggplot2 library for visualizing both female and male ‘Unemployment Rate’.
+
+
+# Conclusion
+
+  According to the inferences we have made from the tables, while Turkey has shown social development in
+certain areas, it has not shown any improvement in certain areas. If we interpret all the tables as a whole,
+we can see that Turkey shows social development. 
+  Turkey made significant progress over the past 29 years in this index as a measure of human development. Turkey’s HDI value was 0.583 in 1990, and increased by 40.7 percent to 0.820 in 2019. When we look at the human development indexes, we see that a person living in Turkey does not have difficulty in her/his management of basic needs, but prevents her/his from reaching a self-confident socioeconomic level by developing and working. When evaluated in general, life expectancy, literacy rate, school enrollment rate increased and showed a good development. On the other hand, unemployment has risen and the labor force has declined, although fluctuating. In addition, there has been an intense influx of refugees since 2011.
+
+
+\newpage
+  
+# References
+
+[1] TUIK. (2021, February). Adrese Dayalı Nüfus Kayıt Sistemi Sonuçları. Retrieved on 15 May 2021  from https://data.tuik.gov.tr/Bulten/Index?p=Adrese-Dayali-Nufus-Kayit-Sistemi-Sonuclari-2020-37210
+
+[2] Directorate for EU Affairs.(2020, March) CHRONOLOGY OF TURKEY- EUROPEAN UNION RELATIONS Retrieved on 15 May 2021  from https://www.ab.gov.tr/siteimages/birimler/kpb/chronology-_en-_1959-_ocak2020.pdf
+
+[3] United Nations Development Programme. (2020, December) Turkey is in the top human development category for the second time in the Human Development Index. Retrieved on 15 May 2021  from https://www.tr.undp.org/content/turkey/en/home/presscenter/articles/2020/12/hdr-2020.html
+
+[4] TEPAV. (2014, June) Sosyal Gelişme Endeksi Türkiye İçin Ne İfade Ediyor?  Retrieved on 15 May 2021  from https://www.tepav.org.tr/upload/files/1403700250-6.Sosyal_Gelisme_Endeksi_Turkiye_Icin_Ne_Ifade_Ediyor.pdf
+
+[5] from Data to Viz. (2018). Retrieved from https://www.data-to-viz.com/
+
+[6] stackoverflow. (2011). Case Statement Equivalent in R. Retrieved from https://stackoverflow.com/questions/4622060/case-statement-equivalent-in-r
+
+[7] Spotlight on Work Statistics. (2018) Retrieved from https://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_631497.pdf
